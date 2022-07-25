@@ -7,3 +7,7 @@
 .carousel-item button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+
+.news-letter-section{
+    background-color: #fceae8;
+}
