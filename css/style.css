@@ -1,0 +1,9 @@
+/* carousel background change  */
+
+.carousel-item{
+    background-color: #fceae8;
+}
+
+.carousel-item button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
